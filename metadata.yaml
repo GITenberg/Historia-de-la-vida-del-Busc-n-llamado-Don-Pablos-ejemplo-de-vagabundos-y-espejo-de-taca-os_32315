@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35792
     wikipedia: http://en.wikipedia.org/wiki/Francisco_de_Quevedo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32315#Historia-de-la-vida-del-Busc-n-llamado-Don-Pablos-ejemplo-de-vagabundos-y-espejo-de-taca-os
 gutenberg_issued: '2010-05-10'
 gutenberg_type: Text
 identifiers:
