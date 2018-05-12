@@ -1,0 +1,34 @@
+_repo: Historia-de-la-vida-del-Busc-n-llamado-Don-Pablos-ejemplo-de-vagabundos-y-espejo-de-taca-os_32315
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quevedo, Francisco de
+    aliases:
+    - De Quevedo y Villegas, Francisco Gómez
+    - Villegas, Francisco Gómez de Quevedo y
+    - Villegas, Francisco Gomez de Quevedo y
+    - Gómez de Quevedo y Villegas, Francisco
+    birthdate: 1580
+    deathdate: 1645
+    gutenberg_agent_id: '35792'
+    url: http://www.gutenberg.org/2009/agents/35792
+    wikipedia: http://en.wikipedia.org/wiki/Francisco_de_Quevedo
+description: ''
+gutenberg_issued: '2010-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32315'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish fiction -- Classical period, 1500-1700'
+- !lcc 'PQ'
+- !lcsh 'Picaresque literature, Spanish'
+title: Historia de la vida del Buscón, llamado Don Pablos, ejemplo de vagabundos y
+  espejo de tacaños
+url: http://www.gutenberg.org/ebooks/32315
